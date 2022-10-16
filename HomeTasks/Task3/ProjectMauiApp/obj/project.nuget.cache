@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdaH/Sg5bNfKGJWlLU4EEQoY0r/zVOe1NtBERu8933st3x3XItRxAkaZWxDOQ20SK6PwhTT053bzTD8Y7re0tQ==",
+  "dgSpecHash": "WNestt0S4vcwu4V3Pny1Vek5gLkQS3cyje5G9lq9/6AtIbZaq3xZ5CufxoCLL/HlhkFQi4qetj8CyRyQ/6h2DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
+  "projectFilePath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ceren_Susuz\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Ceren_Susuz\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

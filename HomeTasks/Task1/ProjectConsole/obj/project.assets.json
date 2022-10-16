@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\ProjectConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\ProjectConsole.csproj",
       "projectName": "ProjectConsole",
-      "projectPath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\ProjectConsole.csproj",
+      "projectPath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\ProjectConsole.csproj",
       "packagesPath": "C:\\Users\\Ceren_Susuz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\obj\\",
+      "outputPath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task1\\ProjectConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task2\\ProjectConcat\\ProjectConcat.csproj": {
-              "projectPath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task2\\ProjectConcat\\ProjectConcat.csproj"
+            "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task2\\ProjectConcat\\ProjectConcat.csproj": {
+              "projectPath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task2\\ProjectConcat\\ProjectConcat.csproj"
             }
           }
         }

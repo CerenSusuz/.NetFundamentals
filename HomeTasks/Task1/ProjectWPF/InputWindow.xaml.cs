@@ -25,25 +25,14 @@ namespace ProjectWPF
             InitializeComponent();
         }
 
-        //private void Send_Click(object sender, RoutedEventArgs e)
-        //{
-        //    MainWindow username = new MainWindow();
-        //    username.TextBlockName.Text = textBox1.Text;
-        //    username.Show(); //Sending value from one form to another form.
-        //    Close();
-        //}
-
         private void Send_Click(object sender, RoutedEventArgs e)
         {
             MainWindow username = new MainWindow();
             username.TextBlockName.Text = textBox1.Text;
-
             ConcatLogic concatenationLogic = new ConcatLogic();
-
             string result = concatenationLogic.Concat(Convert.ToString(username.TextBlockName.Text));
             username.TextBlockName.Text = result;
-
-            username.Show(); //Sending value from one form to another form.
+            username.Show(); 
             Close();
         }
     }

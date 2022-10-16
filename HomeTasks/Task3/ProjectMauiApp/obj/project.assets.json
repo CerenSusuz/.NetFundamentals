@@ -24574,11 +24574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
       "projectName": "ProjectMauiApp",
-      "projectPath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
+      "projectPath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\ProjectMauiApp.csproj",
       "packagesPath": "C:\\Users\\Ceren_Susuz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ceren_Susuz\\Desktop\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\obj\\",
+      "outputPath": "C:\\Users\\Ceren_Susuz\\PERSONAL\\.NET\\.net_hw\\HomeTasks\\Task3\\ProjectMauiApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

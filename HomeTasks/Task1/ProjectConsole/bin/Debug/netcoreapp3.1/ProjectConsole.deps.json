@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v3.1": {
       "ProjectConsole/1.0.0": {
         "dependencies": {
-          "ConcatLogic": "1.0.0"
+          "ProjectConcat": "1.0.0"
         },
         "runtime": {
           "ProjectConsole.dll": {}
         }
       },
-      "ConcatLogic/1.0.0": {
+      "ProjectConcat/1.0.0": {
         "runtime": {
-          "ConcatLogic.dll": {}
+          "ProjectConcat.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ConcatLogic/1.0.0": {
+    "ProjectConcat/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
